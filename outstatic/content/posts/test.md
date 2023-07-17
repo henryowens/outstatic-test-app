@@ -1,6 +1,6 @@
 ---
 title: 'Test'
-status: 'draft'
+status: 'published'
 author:
   name: 'Henry Owens'
   picture: 'https://avatars.githubusercontent.com/u/32868232?v=4'
@@ -28,5 +28,5 @@ const test: string = "hello world"
 
 > This is a quotation block
 
-![](/images/float-away-Q1OT.jpg)
+![](/images/float-away-Q0OD.jpg)
 

@@ -1,6 +1,6 @@
 {
   "commit": "0f0c1bfb7e929219cab3c900cb3cf65d86dad4e0",
-  "generated": "2023-07-17T12:35:19.984Z",
+  "generated": "2023-07-17T12:35:40.755Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,7 +23,7 @@
     {
       "__outstatic": {
         "commit": "0f0c1bfb7e929219cab3c900cb3cf65d86dad4e0",
-        "hash": "3056011628",
+        "hash": "2988902055",
         "path": "outstatic/content/posts/test.md"
       },
       "author": {
@@ -35,7 +35,7 @@
       "description": "Just a small description about the site",
       "publishedAt": "2023-07-17T12:16:06.478Z",
       "slug": "test",
-      "status": "draft",
+      "status": "published",
       "title": "Test"
     }
   ]
