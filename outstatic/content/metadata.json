@@ -1,6 +1,6 @@
 {
-  "commit": "0f0c1bfb7e929219cab3c900cb3cf65d86dad4e0",
-  "generated": "2023-07-17T12:35:40.755Z",
+  "commit": "fafface5d527a5977497c5461f6096f12dc2d0f2",
+  "generated": "2023-07-17T12:41:30.847Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "test",
       "status": "published",
       "title": "Test"
+    },
+    {
+      "__outstatic": {
+        "commit": "fafface5d527a5977497c5461f6096f12dc2d0f2",
+        "hash": "2085682342",
+        "path": "outstatic/content/posts/outsatic.md"
+      },
+      "author": {
+        "name": "Henry Owens",
+        "picture": "https://avatars.githubusercontent.com/u/32868232?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-07-17T12:49:05.737Z",
+      "slug": "outsatic",
+      "status": "published",
+      "title": "Outsatic"
     }
   ]
 }
