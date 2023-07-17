@@ -1,6 +1,6 @@
 {
-  "commit": "9a395bec6d1c8610074266046d4ded275c118eaa",
-  "generated": "Mon, 17 Jul 2023 12:03:37 GMT",
+  "commit": "8ebb3def590d6b06ee3f12a9cbbe5ef3cdcd155d",
+  "generated": "2023-07-17T12:04:21.679Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "outstatic-is-outstanding",
       "status": "draft",
       "title": "Outstatic is Outstanding"
+    },
+    {
+      "__outstatic": {
+        "commit": "8ebb3def590d6b06ee3f12a9cbbe5ef3cdcd155d",
+        "hash": "1868107122",
+        "path": "outstatic/content/posts/test.md"
+      },
+      "author": {
+        "name": "Henry Owens",
+        "picture": "https://avatars.githubusercontent.com/u/32868232?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-07-17T12:16:06.478Z",
+      "slug": "test",
+      "status": "draft",
+      "title": "Test"
     }
   ]
 }
